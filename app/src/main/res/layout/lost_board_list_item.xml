@@ -21,6 +21,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="15dp"
             android:text="title"
+            android:fontFamily="@font/maruburi_bold"
             android:textColor="@color/black"
             android:textSize="20sp"
             android:textStyle="bold" />
@@ -44,6 +45,7 @@
             <TextView
                 android:id="@+id/titleArea"
                 android:text="title"
+                android:fontFamily="@font/maruburi_bold"
                 android:textSize="20sp"
                 android:textColor="@color/black"
                 android:textStyle="bold"
@@ -54,6 +56,7 @@
             <TextView
                 android:id="@+id/lostlocationArea"
                 android:text="title"
+                android:fontFamily="@font/maruburi_bold"
                 android:textSize="20sp"
                 android:textColor="@color/black"
                 android:textStyle="bold"

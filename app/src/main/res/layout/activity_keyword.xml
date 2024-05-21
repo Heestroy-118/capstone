@@ -33,7 +33,7 @@
             android:layout_margin="30dp"
             android:layout_width="100dp"
             android:layout_height="100dp"
-            android:src="@drawable/btnwrite"
+            android:src="@drawable/btnwrite1"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             tools:ignore="MissingConstraints"></ImageView>
