@@ -8,11 +8,10 @@
         tools:context=".Keyword.KeywordActivity">
 
         <ListView
-            android:layout_marginBottom="200dp"
-            android:layout_marginTop="60dp"
             android:id="@+id/keywordListView"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
+            android:background="#E9ECEF"
             tools:layout_editor_absoluteX="16dp"
             tools:layout_editor_absoluteY="215dp" />
 
@@ -21,8 +20,9 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_margin="30dp"
-            android:background="@drawable/background_radius_yellow"
+            android:background="@drawable/rounded_button"
             android:text="초기화"
+            android:textColor="#F8F9FA"
             android:textSize="20dp"
             android:textStyle="bold"
             app:layout_constraintBottom_toBottomOf="parent"
@@ -30,10 +30,10 @@
 
         <ImageView
             android:id="@+id/keywordWriteBtn"
-            android:layout_margin="30dp"
             android:layout_width="100dp"
             android:layout_height="100dp"
-            android:src="@drawable/btnwrite1"
+            android:layout_margin="30dp"
+            android:src="@drawable/btnwrite_2"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             tools:ignore="MissingConstraints"></ImageView>

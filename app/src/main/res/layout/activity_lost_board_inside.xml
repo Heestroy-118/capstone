@@ -30,7 +30,7 @@
                         android:layout_height="30dp"
                         android:layout_gravity="center_vertical"
                         android:layout_marginRight="20dp"
-                        android:background="@drawable/share"
+                        android:background="@drawable/share_2"
                         app:layout_constraintBottom_toBottomOf="parent"
                         app:layout_constraintEnd_toEndOf="parent"
                         app:layout_constraintEnd_toStartOf="@+id/boardSettingIcon"
@@ -107,7 +107,7 @@
                 <Button
                     android:id="@+id/chatBtn"
                     android:layout_gravity="center"
-                    android:background="@color/black"
+                    android:background="@drawable/rounded_button"
                     android:textColor="@color/white"
                     android:text="채팅하기"
                     android:textSize="20dp"
