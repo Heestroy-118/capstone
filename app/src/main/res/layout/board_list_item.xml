@@ -3,6 +3,7 @@
     android:background="#FF9999"
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/itemView"
+    android:backgroundTint="#E9ECEF"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="horizontal">
