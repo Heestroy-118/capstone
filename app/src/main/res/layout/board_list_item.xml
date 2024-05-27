@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
-    android:background="#FF9999"
+    android:background="#E9ECEF"
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/itemView"
-    android:backgroundTint="#E9ECEF"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="horizontal">
@@ -11,6 +10,7 @@
     <TextView
         android:id="@+id/emailArea"
         android:text="title"
+        android:fontFamily="@font/maruburi_bold"
         android:textSize="25dp"
         android:textColor="@color/black"
         android:layout_margin="15dp"
@@ -20,6 +20,7 @@
     <TextView
         android:id="@+id/titleArea"
         android:text="title"
+        android:fontFamily="@font/maruburi_bold"
         android:textSize="25dp"
         android:textColor="@color/black"
         android:layout_margin="15dp"
@@ -29,6 +30,7 @@
     <TextView
         android:id="@+id/statusArea"
         android:text="title"
+        android:fontFamily="@font/maruburi_bold"
         android:textSize="25dp"
         android:textColor="@color/black"
         android:layout_margin="15dp"
