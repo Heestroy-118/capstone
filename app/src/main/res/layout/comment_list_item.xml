@@ -8,6 +8,7 @@
     <TextView
         android:id="@+id/titleArea"
         android:text="title"
+        android:fontFamily="@font/maruburi_bold"
         android:textSize="20sp"
         android:textColor="@color/black"
         android:textStyle="bold"
@@ -18,6 +19,7 @@
     <TextView
         android:id="@+id/timeArea"
         android:text="time"
+        android:fontFamily="@font/maruburi_bold"
         android:textSize="15sp"
         android:textColor="#999999"
         android:layout_marginLeft="20dp"
