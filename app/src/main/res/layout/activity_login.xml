@@ -39,6 +39,7 @@
                 android:layout_height="50dp"
                 android:background="@drawable/rounded_edittext"
                 android:hint="  email"
+                android:fontFamily="@font/maruburi_bold"
                 android:textSize="25dp" />
 
             <LinearLayout
@@ -55,6 +56,7 @@
                 android:layout_height="50dp"
                 android:background="@drawable/rounded_edittext"
                 android:hint="  password"
+                android:fontFamily="@font/maruburi_bold"
                 android:inputType="textPassword"
                 android:textSize="25dp" />
 
