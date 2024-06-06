@@ -8,6 +8,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
+        android:background="#CED4DA"
         android:layout_height="wrap_content">
 
         <TextView
